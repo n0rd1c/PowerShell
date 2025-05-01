@@ -2,7 +2,7 @@
 =============================================================================================
 Name:          
 Description:    
-Author:         nn0rd1c
+Author:         n0rd1c
 Version:        1.0
 
 Script Highlights:
